@@ -1,4 +1,3 @@
-# chuck_joke
 [![Build Status](https://api.travis-ci.org/snaedisk/chuck_joke.png)](https://api.travis-ci.org/snaedisk/chuck_joke)
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
